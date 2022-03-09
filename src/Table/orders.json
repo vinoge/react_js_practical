@@ -1,0 +1,62 @@
+[
+  {
+    "id": "LK1",
+    "customer": {
+      "name": "Adams Baker",
+      "city": "Colombo"
+    },
+    "branch": "Colombo",
+    "service": "Dry Cleaning",
+    "status": "Active",
+    "reference": "Ord_1",
+    "addedby": "Manager"
+  },
+  {
+    "id": "LK2",
+    "customer": {
+      "name": "Clark Davis",
+      "city": "Kandy"
+    },
+    "branch": "Kandy",
+    "service": "Wash Only",
+    "status": "Active",
+    "reference": "Ord_2",
+    "addedby": "Admin"
+  },
+  {
+    "id": "LK3",
+    "customer": {
+      "name": "Evans Frank",
+      "city": "Colombo"
+    },
+    "branch": "Kandy",
+    "service": "Dry Cleaning",
+    "status": "Completed",
+    "reference": "Ord_3",
+    "addedby": "Manager"
+  },
+  {
+    "id": "LK4",
+    "customer": {
+      "name": "Ghosh Hills",
+      "city": "Colombo"
+    },
+    "branch": "Colombo",
+    "service": "Dry Cleaning",
+    "status": "Active",
+    "reference": "Ord_4",
+    "addedby": "Manager"
+  },
+  {
+    "id": "LK5",
+    "customer": {
+      "name": "Jones Klein",
+      "city": "Colombo"
+    },
+    "branch": "Colombo",
+    "service": "Wash Only",
+    "status": "Active",
+    "reference": "Ord_5",
+    "addedby": "Admin"
+  }
+]
